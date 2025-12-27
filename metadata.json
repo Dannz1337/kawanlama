@@ -1,0 +1,7 @@
+{
+  "name": "KawanLama Rental Receipt System",
+  "description": "A professional digital receipt generator and management system for car rentals, featuring AI-powered image generation and smart assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
